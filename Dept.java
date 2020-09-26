@@ -7,7 +7,7 @@ public class Dept implements Serializable{
 	
 	//這些實體變數對應到部門的表格的各個欄位
 	private int deptno;
-	private String dname;
+	private int dname;
 	private String loc;
 	//123
 	public Dept() {
